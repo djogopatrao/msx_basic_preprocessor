@@ -1,6 +1,6 @@
 # MSX BASIC Pre-Processor
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Platform](https://img.shields.io/badge/Platform-MSX-red)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-GPL-green) ![Platform](https://img.shields.io/badge/Platform-MSX-red)
 
 > English version: [README_EN.md](README_EN.md)
 
