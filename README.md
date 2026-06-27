@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-GPL-green) ![Platform](https://img.shields.io/badge/Platform-MSX-red)
 
-> English version: [README_EN.md](README_EN.md)
-
 Pré-processador de linha de comando para programas escritos em MSX BASIC. Recebe um arquivo fonte `.bas` com sintaxe estendida e gera um arquivo BASIC puro com numeração de linhas, pronto para ser carregado no MSX ou em um emulador.
 
 ---
