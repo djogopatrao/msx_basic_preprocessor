@@ -159,7 +159,7 @@ class ResourceTable:
         if var_name in self.name_to_index:
             raise ValueError(f"Recurso '${ var_name}' já definido.")
 
-        index = len(self.resources) + 1          # 1-based
+        index = len(self.resources)
         self.resources.append({"name": var_name, "type": rtype, "file": rfile, "index": index})
         self.name_to_index[var_name] = index
         return True
